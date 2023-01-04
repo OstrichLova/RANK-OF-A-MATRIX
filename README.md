@@ -9,10 +9,14 @@ To write a python program to find the rank of a matrix
 
 ## Algorithm:
 
-### Step 1: Import numpy
-### Step 2: Get the input matrix
-### Step 3: Find the rank of a matrix
-### Step 4: Print the result
+### Step 1: 
+Import numpy
+### Step 2: 
+Get the input matrix
+### Step 3: 
+Find the rank of a matrix
+### Step 4:
+Print the result
 
 ## Program:
 ```python
